@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：设计思考：消息顺序性架构保证与业务妥协
+简介：golang defer 执行顺序与坑点，defer 后进先出，循环内部 defer 陷阱，资源释放正确写法。
+ | 原文链接：http://book.awzyob.asia/blog/0647240.sHtMl
+
+原标题：实战项目：WSL开发环境完整配置实操
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://book.awzyob.asia/blog/6373706.sHtMl
+
+原标题：golang 系统设计分布式锁选型对比
+简介：跨域偶现失败配置修复，解决跨域问题时而复现时而正常，定位配置漏配、请求头异常等隐性问题。
+ | 原文链接：http://book.awzyob.asia/blog/1815924.sHtMl
+
+原标题：golang 系统设计自动化测试 ci 流水线集成实操
+简介：编译打包产物依赖分析解读，分析打包之后产物组成，理清运行依赖文件，排查打包后缺失文件问题。
+ | 原文链接：http://book.awzyob.asia/blog/5495725.sHtMl
+
+原标题：HelloDocker：编写你的第一个Dockerfile
+简介：时间同步修复令牌提前过期，服务器时间不同步导致 JWT 令牌提前过期，同步系统时间解决异常。
+ | 原文链接：http://book.awzyob.asia/blog/9828079.sHtMl
+
+原标题：程序预加载加快服务启动速度
+简介：上传接口跨域配置特殊适配，针对文件上传接口，适配复杂请求，修复上传场景下跨域失效问题。
+ | 原文链接：http://book.awzyob.asia/blog/7596258.sHtMl
+
+原标题：Security：Web常见安全漏洞原理与修复清单
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：http://book.awzyob.asia/blog/5263705.sHtMl
+
+原标题：golang 系统设计内部服务 mock 集成测试方案
+简介：golang bcrypt 密码哈希加密存储，bcrypt 做用户密码哈希，加盐存储密码，保障用户密码安全。
+ | 原文链接：http://book.awzyob.asia/blog/1829170.sHtMl
+
+原标题：Issue：连接池参数不合理，大量连接被耗尽
+简介：接口签名验签完整安全方案，一套完整接口签名方案，包含签名生成、请求携带、服务端验签校验。
+ | 原文链接：http://book.awzyob.asia/blog/5413524.sHtMl
+
+原标题：golang 日志与链路 ID 关联打印
+简介：golang 字符编码转换 go 处理，iconv‑go 做编码转换 gbk utf8 互转，处理老旧系统 gbk 编码数据。
+ | 原文链接：http://book.awzyob.asia/blog/5264684.sHtMl
+
+原标题：数据库连接池参数调优
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://book.awzyob.asia/blog/0725046.sHtMl
+
+原标题：golang 系统设计 api 文档 swagger redoc 落地
+简介：golang tcp_NODELAY 关闭延迟发送，设置 tcp_NODELAY，关闭 Nagle 算法，降低小包请求延迟。
+ | 原文链接：http://book.awzyob.asia/blog/2968060.sHtMl
+
+原标题：部署复盘：配置热更新不用重启服务方案
+简介：Mock 接口服务快速搭建实操，搭建模拟后端接口，自定义返回数据、延迟响应，前端开发阶段无需依赖真实后端服务。
+ | 原文链接：http://book.awzyob.asia/blog/9581613.sHtMl
+
+原标题：快速入门Nginx基础配置，反向代理示例
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://book.awzyob.asia/blog/8514906.sHtMl
+
+原标题：架构笔记：多环境隔离架构开发测试生产隔离
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://book.awzyob.asia/blog/3159479.sHtMl
+
+原标题：CI 持续集成自动构建流程
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：http://book.awzyob.asia/blog/0725039.sHtMl
+
+原标题：复盘总结：线上故障完整复盘报告模板示例
+简介：前后端会话登录状态持久化，实现登录状态持久存储，重启服务登录状态不丢失，保障会话稳定性。
+ | 原文链接：http://book.awzyob.asia/blog/4152625.sHtMl
+
+原标题：零基础理解JSON、XML数据格式处理
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://book.awzyob.asia/blog/9603146.sHtMl
+
+原标题：golang websocket 消息广播实现
+简介：golang tcp_NODELAY 关闭延迟发送，设置 tcp_NODELAY，关闭 Nagle 算法，降低小包请求延迟。
+ | 原文链接：http://book.awzyob.asia/blog/6274625.sHtMl
+
+原标题：golang 系统设计开源项目安全漏洞处理流程
+简介：数据库索引重建提升查询速度，针对碎片化索引，重建数据库索引，恢复 SQL 查询执行性能。
+ | 原文链接：http://book.awzyob.asia/blog/9306039.sHtMl
+
+原标题：优化实践：LRU本地缓存优化热点访问性能
+简介：golang http 文件下载断点续传服务，服务端实现断点续传，支持大文件分段下载，提升大文件下载稳定性。
+ | 原文链接：http://book.awzyob.asia/blog/0374584.sHtMl
+
+原标题：WebSocket 双向通信 demo 开发
+简介：golang go 程序抢占调度理解，理解 go 抢占式调度原理，长循环阻塞调度，造成协程调度延迟。
+ | 原文链接：http://book.awzyob.asia/blog/9628259.sHtMl
+
+原标题：开源实践：开源项目如何写好PullRequest
+简介：golang go 程序守护进程实现思路，go 程序不做 daemon 化，依靠 systemd pm2 k8s 实现进程守护。
+ | 原文链接：http://book.awzyob.asia/blog/6070584.sHtMl
+
+原标题：golang kafka 监控指标简单梳理
+简介：golang 结构体深浅拷贝区别实操，区分结构体浅拷贝深拷贝，规避指针引用带来数据意外篡改问题。
+ | 原文链接：http://book.awzyob.asia/blog/5059102.sHtMl
+
+原标题：golang 系统设计 vscode go 插件调试配置实操
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：http://book.awzyob.asia/blog/2913701.sHtMl
+
+原标题：golang 系统设计多级缓存架构落地
+简介：跨平台 uniapp 多端开发实操，uniapp 开发一套代码，编译多端，梳理多端差异处理与适配技巧。
+ | 原文链接：http://book.awzyob.asia/blog/7155814.sHtMl
+
+原标题：Shell 脚本自动化命令编写
+简介：golang bufio.Scanner 缓冲区调大，Scanner 默认缓冲区大小不够，读取超长行需要扩大缓冲区。
+ | 原文链接：http://book.awzyob.asia/blog/8004571.sHtMl
+
+原标题：golang 优雅停机服务关闭实现
+简介：golang md5 sha 加密工具实现，实现 MD5、SHA 哈希工具，做数据摘要，用于签名校验场景。
+ | 原文链接：http://book.awzyob.asia/blog/3035692.sHtMl
+
+原标题：坑点：环境配置写死代码，上线忘记修改
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：http://book.awzyob.asia/blog/1828469.sHtMl
+
+原标题：部署实践：Nginx反向代理传递真实客户端IP
+简介：golang embed 目录读取文件列表，embed 嵌入整个目录，读取目录下全部文件，做静态资源服务。
+ | 原文链接：http://book.awzyob.asia/blog/8536148.sHtMl
+
+原标题：用户敏感数据脱敏代码实现
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://book.awzyob.asia/blog/4151394.sHtMl
+
+原标题：坑点：依赖包内部携带恶意代码供应链风险
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：http://book.awzyob.asia/blog/9263484.sHtMl
+
+原标题：Issue：防火墙拦截ICMP，MTU问题网络丢包
+简介：golang nats 轻量消息队列 go 开发，nats 高性能轻量消息系统，发布订阅模式异步解耦业务。
+ | 原文链接：http://book.awzyob.asia/blog/6087840.sHtMl
+
+原标题：开发复盘：导出大文件避免内存溢出实现方案
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：http://book.awzyob.asia/blog/8593916.sHtMl
+
+原标题：架构复盘：慢查询治理架构层面优化手段
+简介：golang socket 文件描述符继承重启，父进程传递 listener fd 给子进程，实现 go 程序零停机热重启。
+ | 原文链接：http://book.awzyob.asia/blog/8525049.sHtMl
+
+原标题：Practice：批量异步任务处理系统设计实现
+简介：golang 子进程超时杀死防止挂住，context 控制子进程超时，超时强制杀掉子进程，避免子进程僵尸。
+ | 原文链接：http://book.awzyob.asia/blog/6268361.sHtMl
+
+原标题：踩坑记录：分页逻辑错误造成数据重复输出
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://book.awzyob.asia/blog/0716149.sHtMl
+
+原标题：golang 系统设计分布式事务几种方案
+简介：golang sync.Once 只执行一次，sync.Once 做单例初始化，保证代码只执行一次，并发安全。
+ | 原文链接：http://book.awzyob.asia/blog/9715030.sHtMl
+
+原标题：golang 系统设计密码存储哈希加盐实现
+简介：golang 链路追踪简易实现方案，简易链路追踪实现，传递 traceId，记录调用链路，方便排查慢调用。
+ | 原文链接：http://book.awzyob.asia/blog/3048359.sHtMl
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://book.awzyob.asia/blog/3769463.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：Debug：预加载逻辑错误服务启动时间成倍拉长
+简介：缓存穿透击穿雪崩全套防护，完整梳理缓存三大问题，落地全套防护策略，保障缓存层稳定运行。
+ | 原文链接：http://book.awzyob.asia/blog/1858950.sHtMl
+
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：golang rsa 非对称加密签名验签，RSA 非对称加密与签名验签，实现非对称安全通信。
+ | 原文链接：http://book.awzyob.asia/blog/0823826.sHtMl
+
+原标题：golang 系统设计日志采样降低存储开销方案
+简介：新手参与开源社区贡献指南，介绍开源社区基础规则，讲解阅读 issue、提交 PR 流程，指导开发者参与开源贡献。
+ | 原文链接：http://book.awzyob.asia/blog/9593515.sHtMl
+
+原标题：golang 系统设计防重复提交实现
+简介：golang 延迟队列实现方案对比，时间轮、redis zset 实现延迟队列，处理延时执行业务。
+ | 原文链接：http://book.awzyob.asia/blog/2827071.sHtMl
+
+原标题：golang 容器健康检查接口开发
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://book.awzyob.asia/blog/0812526.sHtMl
+
+原标题：golang lru 缓存淘汰算法编写
+简介：消息队列生产消费模型入门，讲解消息队列生产、存储、消费流程，理解异步解耦、削峰，掌握消息队列基础概念。
+ | 原文链接：http://book.awzyob.asia/blog/7291704.sHtMl
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：http://book.awzyob.asia/blog/5272518.sHtMl
+
+原标题：golang 系统设计日志级别业务使用原则梳理
+简介：Git 分支切换合并删除完整操作，实操分支全生命周期操作，包含切换、合并、删除，熟悉日常开发分支处理流程。
+ | 原文链接：http://book.awzyob.asia/blog/9605847.sHtMl
+
+原标题：开发复盘：批量任务进度持久化实现方案
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：http://book.awzyob.asia/blog/4140364.sHtMl
+
+原标题：golang 系统设计限流算法原理代码实现
+简介：后端登录鉴权模块完整开发，实现完整登录模块，包含账号校验、令牌发放、接口鉴权整套能力。
+ | 原文链接：http://book.awzyob.asia/blog/6591793.sHtMl
+
+原标题：golang html 模板渲染简单示例
+简介：golang viper 多源配置管理实操，viper 读取配置文件环境变量命令行参数，多源配置优先级管理。
+ | 原文链接：http://book.awzyob.asia/blog/3150400.sHtMl
+
+原标题：golang docker volume 数据持久化
+简介：golang time 定时器重置 Reset 正确用法，Timer Reset 调用前提，避免 Reset 带来逻辑错误。
+ | 原文链接：http://book.awzyob.asia/blog/6379703.sHtMl
+
+原标题：设计思考：业务系统如何设计优雅失败架构
+简介：golang 结构体 json 序列化坑点，梳理 Go 结构体 JSON 序列化高频坑点，字段大小写、零值处理问题。
+ | 原文链接：http://book.awzyob.asia/blog/0483682.sHtMl
+
+原标题：开发记录：敏感数据加密存储解密业务实践
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：http://book.awzyob.asia/blog/7483700.sHtMl
+
+原标题：golang k8s pod 优雅关闭流程讲解
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://book.awzyob.asia/blog/1838171.sHtMl
+
+原标题：实践：大文件分片上传后端完整实现思路
+简介：死信队列处理消息阻塞业务，配置死信队列，处理消费失败消息，避免失败消息阻塞整个队列业务。
+ | 原文链接：http://book.awzyob.asia/blog/0716820.sHtMl
+
+原标题：golang 系统设计代码评审关注点 checklist 清单
+简介：golang net.Conn 包装自定义连接，包装 net.Conn，统计读写字节，日志打印，超时控制。
+ | 原文链接：http://book.awzyob.asia/blog/3006959.sHtMl
+
+原标题：DevOps：容器健康探针livenessreadiness配置
+简介：golang 字符串处理常用技巧汇总，字符串拼接、分割、替换、类型转换实操，规避字符串高频错误。
+ | 原文链接：http://book.awzyob.asia/blog/1858360.sHtMl
+
+原标题：nodejs redis 缓存业务实战
+简介：Cookie 跨环境登录配置调整，调整 Cookie 域、Secure 属性，适配开发测试生产环境，修复登录失效。
+ | 原文链接：http://book.awzyob.asia/blog/4159604.sHtMl
+
+原标题：前端国际化多语言方案落地
+简介：golang gorm 事务手动回滚提交，手动控制事务流程，业务异常主动回滚，保障数据操作原子性。
+ | 原文链接：http://book.awzyob.asia/blog/8591704.sHtMl
+
+原标题：时间精度统一业务判断修复
+简介：JSON XML 数据解析处理示例，演示两种格式数据解析与序列化，增加异常捕获，处理格式错乱导致解析失败。
+ | 原文链接：http://book.awzyob.asia/blog/7485829.sHtMl
+
+原标题：Nginx 缓冲区调优大文件上传
+简介：golang http 服务优雅关闭完整示例，接收终止信号，停止接收新请求，等待现有请求处理完毕后退出服务。
+ | 原文链接：http://book.awzyob.asia/blog/4712827.sHtMl
+
+原标题：大文件导出内存溢出防护
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://book.awzyob.asia/blog/7483919.sHtMl
+
+原标题：golang kafka 消费者组原理讲解
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://book.awzyob.asia/blog/5160350.sHtMl
+
+原标题：golang kafka 消费者偏移量管理
+简介：轻量 API 后端接口服务快速开发，快速搭建简易 API 服务，实现基础接口能力，快速支撑小型业务需求。
+ | 原文链接：http://book.awzyob.asia/blog/9302708.sHtMl
+
+原标题：golang 结构体深拷贝几种实现
+简介：golang 信号触发配置重载实践，收到 SIGUSR1 信号重新加载配置，线上无需重启刷新配置。
+ | 原文链接：http://book.awzyob.asia/blog/3272515.sHtMl
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：golang websocket 服务端开发，Go 实现 WebSocket 服务端，处理连接、消息收发，实现长连接服务。
+ | 原文链接：http://book.awzyob.asia/blog/8536840.sHtMl
+
+原标题：排错：多实例部署session共享失效登录失效
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：http://book.awzyob.asia/blog/4150350.sHtMl
+
+原标题：golang 系统设计 mq 故障降级业务策略
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：http://book.awzyob.asia/blog/4079585.sHtMl
+
+原标题：实战：Redis集群本地搭建与功能验证
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://book.awzyob.asia/blog/2935160.sHtMl
+
+原标题：golang 系统设计缓存预热脚本编写实操
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://book.awzyob.asia/blog/0617076.sHtMl
+
+原标题：golang 系统设计数据库死锁分析规避
+简介：DNS TTL 配置域名切换生效，调整 DNS 解析 TTL，缩短缓存时间，域名变更后可以快速全网生效。
+ | 原文链接：http://book.awzyob.asia/blog/3261474.sHtMl
+
+原标题：ORM 框架数据库增删改查实操
+简介：golang grafana 面板 go 业务指标可视化，prometheus 指标对接 grafana，配置监控面板可视化业务状态。
+ | 原文链接：http://book.awzyob.asia/blog/4161464.sHtMl
+
+原标题：实践：OpenAPI自动生成接口文档完整实践
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://book.awzyob.asia/blog/8595705.sHtMl
+
+原标题：部署实践：DockerCompose管理多服务环境
+简介：golang 性能压测 wr 工具实操指南，wr 压测工具对 Go 接口压测，观察 QPS 延迟，定位接口性能瓶颈。
+ | 原文链接：http://book.awzyob.asia/blog/6372416.sHtMl
+
+原标题：序列化版本不一致解析失败
+简介：golang net/url 路径拼接处理，url.ParseRequestURI 处理请求 url，正确拼接 url 路径避免拼接错误。
+ | 原文链接：http://book.awzyob.asia/blog/0717958.sHtMl
+
+原标题：零基础理解缓存基础原理与简单使用
+简介：本地简易配置中心动态管理，搭建轻量本地配置中心，业务动态读取配置，修改配置不重启服务。
+ | 原文链接：http://book.awzyob.asia/blog/7261515.sHtMl
+
+原标题：异步任务堆积消费能力优化
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://book.awzyob.asia/blog/2938062.sHtMl
+
+原标题：接口幂等性防重复请求实现
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://book.awzyob.asia/blog/0717926.sHtMl
+
+原标题：golang 系统设计热点数据缓存处理
+简介：golang 大文件 HTTP 流式上传接收，服务端流式接收上传文件，不全部加载内存，防止大文件 OOM 崩溃。
+ | 原文链接：http://book.awzyob.asia/blog/8213515.sHtMl
+
+三、实战开发｜Practice
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：前后端交互跨域问题完整处理，讲解跨域产生原理，列举多种解决方案，适配开发、生产不同环境的跨域处理。
+ | 原文链接：http://book.awzyob.asia/blog/3049282.sHtMl
+
+原标题：异步编程 Promise 执行流程解析
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：http://book.awzyob.asia/blog/0827030.sHtMl
+
+原标题：golang grpc protobuf 开发实操
+简介：git cherry‑pick 规范操作防 bug，规范 cherry‑pick 使用流程，处理冲突，避免错误引入不兼容代码。
+ | 原文链接：http://book.awzyob.asia/blog/1938282.sHtMl
+
+原标题：golang 系统设计分布式事务几种方案
+简介：golang 容器时区设置镜像构建处理，镜像内部设置正确时区，解决容器时间与宿主机不一致。
+ | 原文链接：http://book.awzyob.asia/blog/3040393.sHtMl
+
+原标题：Hands‑on：模拟RPC超时重试业务异常场景
+简介：golang os 环境变量读取设置，os.Getenv os.Setenv os.Unsetenv 读写环境变量，环境变量多值处理。
+ | 原文链接：http://book.awzyob.asia/blog/8594726.sHtMl
+
+原标题：代码模块化组件化拆分思路
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://book.awzyob.asia/blog/4192805.sHtMl
+
+原标题：DevOps：容器网络模式选型与坑点总结
+简介：golang 跨平台系统差异处理方案，处理 windows linux mac 路径、信号、文件权限差异，代码跨平台兼容。
+ | 原文链接：http://book.awzyob.asia/blog/0727027.sHtMl
+
+原标题：入门实践：简单批量处理脚本编写
+简介：golang go 排序 sort 包自定义排序，sort 包实现自定义排序逻辑，对切片按业务规则排序。
+ | 原文链接：http://book.awzyob.asia/blog/8480697.sHtMl
+
+原标题：Architecture：中小型后端服务整体架构设计复盘
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：http://book.awzyob.asia/blog/3756815.sHtMl
+
+原标题：golang channel 通道并发处理
+简介：golang tidb 数据库 go 项目适配，go 程序适配 tidb，兼容 mysql 协议，分布式数据库业务开发。
+ | 原文链接：http://book.awzyob.asia/blog/4280704.sHtMl
+
+原标题：容器内存扩容 OOM 被杀死修复
+简介：golang docker 镜像构建最佳实践，Go 项目 Docker 镜像构建最佳实践，减小镜像体积，安全构建。
+ | 原文链接：http://book.awzyob.asia/blog/3938192.sHtMl
+
+原标题：服务启动依赖顺序配置正确
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：http://book.awzyob.asia/blog/3168021.sHtMl
+
+原标题：golang prometheus 告警规则编写
+简介：golang go‑fuzz 模糊测试开发，go fuzz 模糊测试，自动构造异常输入，发现代码隐藏 bug。
+ | 原文链接：http://book.awzyob.asia/blog/9717926.sHtMl
+
+原标题：架构笔记：任务调度系统架构设计与可靠性
+简介：nestjs 全局返回格式统一处理，Nest 全局拦截器统一包装接口返回数据，对外输出标准化响应格式。
+ | 原文链接：http://book.awzyob.asia/blog/7591393.sHtMl
+
+原标题：golang 系统设计 ide 配置 go 开发效率提升技巧
+简介：golang word 文档生成处理 go 方案，go 生成 word 文档报表，填充文本表格，输出 docx 文件。
+ | 原文链接：http://book.awzyob.asia/blog/4161704.sHtMl
+
+原标题：golang kafka 生产者参数调优
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://book.awzyob.asia/blog/4151404.sHtMl
+
+原标题：踩坑：环境变量未生效导致线上配置错乱
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：http://book.awzyob.asia/blog/7504737.sHtMl
+
+原标题：golang 系统设计消息大小限制业务处理方案
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://book.awzyob.asia/blog/1594725.sHtMl
+
+原标题：Security：RPC调用身份认证安全加固
+简介：golang go cover 覆盖率报告生成，go test‑cover 生成测试覆盖率，html 可视化查看未覆盖代码行。
+ | 原文链接：http://book.awzyob.asia/blog/5191704.sHtMl
+
+原标题：golang 系统设计本地缓存更新失效方案实现
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：http://book.awzyob.asia/blog/6594625.sHtMl
+
+原标题：golang ci 流水线单元测试集成测试
+简介：golang k8s informer 机制原理理解，informer 监听 k8s 资源变更，本地缓存，减少 apiserver 压力。
+ | 原文链接：http://book.awzyob.asia/blog/1718152.sHtMl
+
+原标题：架构笔记：缓存雪崩缓存击穿架构防护方案
+简介：SourceMap 生成线上报错定位，项目打包生成 SourceMap 文件，线上报错可以还原源码，快速定位报错位置。
+ | 原文链接：http://book.awzyob.asia/blog/9602818.sHtMl
+
+原标题：nodejs 事件循环机制完整讲解
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://book.awzyob.asia/blog/8413905.sHtMl
+
+原标题：项目实践：搭建个人API网关最小实现版本
+简介：ServiceWorker 缓存页面更新清理，处理 ServiceWorker 缓存，实现页面新版本更新，用户可以加载最新页面。
+ | 原文链接：http://book.awzyob.asia/blog/6370293.sHtMl
+
+原标题：坑点：Git工作区换行符CRLF/LF跨平台坑
+简介：golang 时间时区处理避坑指南，Go 时间时区常见坑，时区转换，时间比较，规避时间逻辑错误。
+ | 原文链接：http://book.awzyob.asia/blog/2827031.sHtMl
+
+原标题：开源项目本地运行排错完整清单
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：http://book.awzyob.asia/blog/8594026.sHtMl
+
+原标题：Practice：手写简易限流组件，计数器、令牌桶实现
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：http://book.awzyob.asia/blog/7291815.sHtMl
+
+原标题：Practice：实现请求ID透传全链路日志实践
+简介：静态资源 404 路径打包修复，修复打包后静态资源访问 404，调整资源输出路径，保证资源正常加载。
+ | 原文链接：http://book.awzyob.asia/blog/0483626.sHtMl
+
+原标题：新手教程：gitstash暂存工作区变更实操
+简介：golang os 主机名内核版本读取，os 读取主机名，内核信息，操作系统版本，获取运行环境信息。
+ | 原文链接：http://book.awzyob.asia/blog/5262526.sHtMl
+
+原标题：数值类型溢出错乱问题修复
+简介：golang time duration 解析时间字符串，time.ParseDuration 解析 1h30m 时间间隔字符串。
+ | 原文链接：http://book.awzyob.asia/blog/8591704.sHtMl
+
+原标题：快速上手简单信号处理脚本编写
+简介：react 状态管理方案选型对比，对比 Redux、Zustand 等 React 状态管理库，分析适用业务场景辅助选型。
+ | 原文链接：http://book.awzyob.asia/blog/4168020.sHtMl
+
+原标题：golang mysql 悲观锁乐观锁实现
+简介：golang 系统调用跟踪 strace 排查 go 程序，strace 跟踪系统调用，定位文件网络 IO 慢的底层原因。
+ | 原文链接：http://book.awzyob.asia/blog/5969572.sHtMl
+
+原标题：Issue：日志输出包含敏感信息造成泄露风险
+简介：DNS TTL 配置域名切换生效，调整 DNS 解析 TTL，缩短缓存时间，域名变更后可以快速全网生效。
+ | 原文链接：http://book.awzyob.asia/blog/1820359.sHtMl
+
+原标题：Git LFS 大文件推送失败解决
+简介：golang go 爬虫异步并发抓取，协程池控制并发抓取网页，多协程采集，提升爬虫采集速度。
+ | 原文链接：http://book.awzyob.asia/blog/7494636.sHtMl
+
+原标题：实践：代码提交前自动格式化校验配置实践
+简介：golang sort 搜索查找切片元素，sort.Search 二分查找有序切片，快速定位元素索引位置。
+ | 原文链接：http://book.awzyob.asia/blog/7948156.sHtMl
+
+原标题：golang 系统设计 saga 事务补偿模式实现思路
+简介：golang 系统调用跟踪 strace 排查 go 程序，strace 跟踪系统调用，定位文件网络 IO 慢的底层原因。
+ | 原文链接：http://book.awzyob.asia/blog/5261814.sHtMl
+
+原标题：方案设计：高可用Redis集群架构选型对比
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：http://book.awzyob.asia/blog/8505635.sHtMl
+
+原标题：golang 系统设计消息 partition 数量设置思路
+简介：golang net/http 超时全套配置，完整配置 Go HTTP 服务读写空闲超时，全方位防止请求挂住。
+ | 原文链接：http://book.awzyob.asia/blog/7478362.sHtMl
+
+原标题：开源实践：参与开源项目从Issue到PR完整流程
+简介：动态定时任务业务调度实现，实现可以动态增删启停定时任务，无需重启服务调整调度任务。
+ | 原文链接：http://book.awzyob.asia/blog/2635924.sHtMl
+
+原标题：代码格式化工具团队统一风格
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：http://book.awzyob.asia/blog/3757474.sHtMl
+
+四、架构设计｜Architecture
+原标题：golang 单元测试 table‑driven
+简介：golang sync.Mutex 互斥锁正确模式，互斥锁 defer Unlock，锁粒度控制，避免锁范围过大。
+ | 原文链接：http://book.awzyob.asia/blog/2168368.sHtMl
+
+原标题：golang 系统设计蓝绿发布滚动发布对比
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://book.awzyob.asia/blog/2040271.sHtMl
+
+原标题：Performance：数据库索引优化常见错误案例
+简介：Git commit 钩子提交规范校验，配置 Git 提交钩子，提交代码自动校验提交信息格式，规范提交记录。
+ | 原文链接：http://book.awzyob.asia/blog/0728142.sHtMl
+
+原标题：对象存储上传下载权限实操
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://book.awzyob.asia/blog/1534038.sHtMl
+
+原标题：golang 系统设计 webhook 回调处理架构
+简介：对象存储上传下载权限实操，演示对象存储文件上传、下载、访问权限设置，适配业务文件存储场景。
+ | 原文链接：http://book.awzyob.asia/blog/5273726.sHtMl
+
+原标题：序列化版本不一致解析失败
+简介：golang ctx 传递规则不要存结构体，context 作为函数参数传递，禁止放入结构体字段存储。
+ | 原文链接：http://book.awzyob.asia/blog/0746250.sHtMl
+
+原标题：golang docker 镜像安全扫描漏洞
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://book.awzyob.asia/blog/1536242.sHtMl
+
+原标题：golang minio 存储桶权限管控配置
+简介：golang go 自定义错误类型实现，自定义 error 结构体，携带错误码、堆栈信息，统一业务错误。
+ | 原文链接：http://book.awzyob.asia/blog/3047361.sHtMl
+
+原标题：前端组件库按需加载性能优化
+简介：配置外部化线上部署防错误，把配置从代码剥离，外部传入配置，修改配置不需要重新打包构建。
+ | 原文链接：http://book.awzyob.asia/blog/3378461.sHtMl
+
+原标题：从零搭建本地数据库开发环境
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：http://book.awzyob.asia/blog/7180350.sHtMl
+
+原标题：开发记录：网关实现接口鉴权、限流、日志打印
+简介：golang os 打开文件 O_APPEND O_CREATE 标志，OpenFile 标志位，控制文件创建追加截断行为。
+ | 原文链接：http://book.awzyob.asia/blog/0713714.sHtMl
+
+原标题：开发记录：分布式ID生成器实现与压力测试
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://book.awzyob.asia/blog/3040474.sHtMl
+
+原标题：ICMP 放通网络丢包问题修复
+简介：golang 简单爬虫请求防封禁，简易 Go 爬虫实现，增加请求间隔、UA 伪装，规避被目标站点封禁 IP。
+ | 原文链接：http://book.awzyob.asia/blog/1483627.sHtMl
+
+原标题：golang 消息死信处理业务逻辑
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://book.awzyob.asia/blog/6250304.sHtMl
+
+原标题：golang 数据库连接泄露排查
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://book.awzyob.asia/blog/9694594.sHtMl
+
+原标题：Issue：连接池参数不合理，大量连接被耗尽
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：http://book.awzyob.asia/blog/0719281.sHtMl
+
+原标题：调优方案：静态资源缓存头Cache‑Control优化
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://book.awzyob.asia/blog/1938137.sHtMl
+
+原标题：golang k8s 命名空间资源隔离方案
+简介：golang 负载均衡轮询加权轮询实现，手写负载均衡算法，轮询、加权轮询分发请求到后端节点。
+ | 原文链接：http://book.awzyob.asia/blog/8491925.sHtMl
+
+?
